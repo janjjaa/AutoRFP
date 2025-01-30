@@ -1,6 +1,6 @@
 # Project Title
 
-AutoRFP
+AutoRFP - final project for the Building AI course. 
 
 ## Summary 
 
